@@ -9,7 +9,7 @@
 * summary 
 
 ## **Fine-tune BART**
-### <p style="text-align: justify"'>The choice of the BART model in the provided code example is just one of many possibilities. BART (Bidirectional and Auto-Regressive Transformers) is a transformer-based model that has shown strong performance in various natural language processing tasks, including abstractive text summarization. It was pre-trained on a denoising autoencoder objective, which makes it proficient at generating coherent and contextually relevant summaries. **We use sequence lengths of 512 and 128 for the encoder and decoder, respectively, instead of 1024 (which is the default sequence length). This will allow us to run this example quickly on Colab.**</p>
+### <p style="text-align: justify">The choice of the BART model in the provided code example is just one of many possibilities. BART (Bidirectional and Auto-Regressive Transformers) is a transformer-based model that has shown strong performance in various natural language processing tasks, including abstractive text summarization. It was pre-trained on a denoising autoencoder objective, which makes it proficient at generating coherent and contextually relevant summaries. **We use sequence lengths of 512 and 128 for the encoder and decoder, respectively, instead of 1024 (which is the default sequence length). This will allow us to run this example quickly on Colab.**</p>
 
 ## Hyperparameters
 ```python
