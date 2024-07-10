@@ -19,5 +19,10 @@ EPOCHS = 10  # Can be set to a higher value for better results
 MAX_ENCODER_SEQUENCE_LENGTH = 512
 MAX_DECODER_SEQUENCE_LENGTH = 128
 MAX_GENERATION_LENGTH = 40
-
 ```
+
+## **Model Summary**
+![image](https://github.com/mrjoneidi/Abstractive-Text-Summarization-with-BART/assets/132068610/13c2f8dc-ed82-4a31-82e4-1f8eaaee2356)
+
+## **I reached Losss = 0.049 and Accuracy = 0.93 in 10 epochs***
+
